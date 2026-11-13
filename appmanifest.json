@@ -1,6 +1,6 @@
 ﻿{
-	"name": "CosMenu",
-	"short_name": "CosMenu",
+	"name": "CosMenu - Touch",
+	"short_name": "CosMenu - Touch",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
